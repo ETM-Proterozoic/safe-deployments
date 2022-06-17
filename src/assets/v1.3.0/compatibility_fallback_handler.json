@@ -1,9 +1,10 @@
 {
-  "defaultAddress": "0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4",
+  "defaultAddress": "0xe16bA5bF81E5BB113e4752E4fdC20351d796fB24",
   "released": true,
   "contractName": "CompatibilityFallbackHandler",
   "version": "1.3.0",
   "networkAddresses": {
+    "37": "0xe16bA5bF81E5BB113e4752E4fdC20351d796fB24",
     "1": "0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4",
     "3": "0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4",
     "4": "0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4",

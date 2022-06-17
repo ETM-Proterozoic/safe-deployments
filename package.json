@@ -1,8 +1,8 @@
 {
-  "name": "@gnosis.pm/safe-deployments",
-  "version": "1.15.0",
+  "name": "@etmp/safe-deployments",
+  "version": "1.0.0",
   "description": "Collection of Safe singleton deployments",
-  "homepage": "https://github.com/gnosis/safe-deployments/",
+  "homepage": "https://github.com/ETM-Proterozoic/safe-deployments",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
