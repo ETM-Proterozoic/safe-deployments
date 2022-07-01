@@ -1,6 +1,6 @@
 {
   "name": "@etmp/safe-deployments",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Collection of Safe singleton deployments",
   "homepage": "https://github.com/ETM-Proterozoic/safe-deployments",
   "license": "MIT",
